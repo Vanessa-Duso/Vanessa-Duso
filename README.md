@@ -22,9 +22,9 @@
 Amando desbravar a área da tecnologia e ter oportunidade de novos aprendizados!
 
 
-![snake gif](https://github.com/vanessa-duso/vanessa-duso/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/vanessa-duso/vanessa-duso/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https;//github-readme-stats.vercel.app/api/pin/?usernamevanessa-duso&repo=vanessa-duso&theme=react)].(https://github.com/vanessa-duso/vanessa-duso).
+[![readme](https;//github-readme-stats.vercel.app/api/pin/?usernamevanessa-duso&repo=vanessa-duso&theme=react)](https://github.com/vanessa-Duso/vanessa-duso)
 
 
 
