@@ -9,6 +9,8 @@
 👊🏻 Desbravando a área da tecnologia com força total em busca de excelentes oportunidades profissionais!
 
 
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/vanessa-duso-591b052a/) 
 
 ![Vanessa-Duso](https://github-readme-stats.vercel.app/api?username=vanessa-duso&show_icons=true&theme=radical)
