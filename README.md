@@ -1,10 +1,12 @@
 ### Olá! Sou a Vanessa Duso 🖐️
 
-🎓Bacharel em Análise e Desenvolvimento de Sistemas
+🎓Graduada em Análise e Desenvolvimento de Sistemas
 
 📚Cursando Pós Graduação em Engenharia de Software
 
-Amando desbravar a área da tecnologia e ter oportunidade de novos aprendizados!
+💻 Desenvolvedora Back-End em ascenção!
+
+👊🏻 Desbravando a área da tecnologia com força total em busca de excelentes oportunidades profissionais!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/vanessa-duso-591b052a/) 
