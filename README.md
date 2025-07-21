@@ -4,7 +4,7 @@
 
 📚Cursando Pós Graduação em Engenharia de Software
 
-💻 Desenvolvedora Back-End em ascenção!
+💻 QA em ascenção!
 
 👊🏻 Desbravando a área da tecnologia com força total em busca de excelentes oportunidades profissionais!
 
